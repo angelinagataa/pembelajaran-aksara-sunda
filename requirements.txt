@@ -1,0 +1,7 @@
+gtts
+opencv-python-headless
+ultralytics
+tensorflow
+streamlit
+streamlit-authenticator
+streamlit-extras
